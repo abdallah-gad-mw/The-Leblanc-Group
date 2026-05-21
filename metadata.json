@@ -1,0 +1,6 @@
+{
+  "name": "The Leblanc Group",
+  "description": "Premium luxury custom home builders & renovation specialists based in Maine. Exceptional craftsmanship, structural excellence, and premium spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
